@@ -27,7 +27,7 @@ This project features a comprehensive Sales Analysis Dashboard developed in Powe
 ## 🛠️ Tools Used
 * **Power BI Desktop:** For data modeling, DAX measures, and visualization.
 * **Power BI Service:** For dashboard publishing and sharing.
-* **Dataset:** [https://drive.google.com/drive/folders/1ylQEChSCRKXTgUZbaLTCw7MZvjVQvflE?usp=sharing].
+* **Dataset:** [Customer_data](https://drive.google.com/drive/folders/1ylQEChSCRKXTgUZbaLTCw7MZvjVQvflE?usp=sharing).
 
 ---
 
