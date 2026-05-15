@@ -3,7 +3,7 @@
 ## 📊 Project Overview
 This project features a comprehensive Sales Analysis Dashboard developed in Power BI. It provides data-driven insights into sales performance, customer demographics, and product profitability to support strategic business decisions.
 
-### 🔗 [View Live Interactive Dashboard](https://app.powerbi.com/links/_zOhsMGvFI?ctid=ed273ae3-fc59-4322-8717-9aa9d744a0ea&pbi_source=linkShare&bookmarkGuid=2bead486-f6b7-40db-99c6-0e63b603b5e6)
+### 🔗 [View Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWY4MzQ0NDYtY2Q3Zi00NjAyLWEzZDctZDIwMjc4NmZiNjhlIiwidCI6ImVkMjczYWUzLWZjNTktNDMyMi04NzE3LTlhYTlkNzQ0YTBlYSJ9)
 
 ---
 
